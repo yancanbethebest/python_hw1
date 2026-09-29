@@ -1,0 +1,71 @@
+﻿source_file,line_no,student_id,field,raw_value,issue,raw_line
+scores.csv,1,,,,repeated_score_header,"student_id,midterm,final,project"
+scores.csv,117,,,,repeated_score_header,"student_id,midterm,final,project"
+scores.csv,156,,,,repeated_score_header,"student_id,midterm,final,project"
+scores.csv,35,,,,blank_score_line,
+scores.csv,73,,,,blank_score_line,
+scores.csv,182,,,,blank_score_line,
+scores.csv,183,,,,blank_score_line,
+scores.csv,184,,,,blank_score_line,
+scores.csv,135,98446968,,,malformed_score_row,"98446968,48,50,84,x"
+scores.csv,160,77758700,,,malformed_score_row,"77758700,80,94"
+scores.csv,167,75634387,,,malformed_score_row,"75634387,70,76,51,retake"
+scores.csv,173,11622026,,,malformed_score_row,"11622026,74,43,72,late"
+scores.csv,12,60542016,midterm,N/A,non_numeric_score,"60542016,N/A,93,92"
+scores.csv,64,45778904,midterm,abc,non_numeric_score,"45778904,abc,45,97"
+scores.csv,95,58124315,midterm,104,out_of_range_score,"58124315,104,89,90"
+scores.csv,128,27225353,midterm,999,out_of_range_score,"27225353,999,56,71"
+scores.csv,28,43033616,final,missing,non_numeric_score,"43033616,39,missing,81"
+scores.csv,111,66996412,final,-5,out_of_range_score,"66996412,72,-5,53"
+scores.csv,46,11616494,project,,missing_score,"11616494,89,63,"
+scores.csv,134,63941939,project,??,non_numeric_score,"63941939,58,57,??"
+scores.csv,146,98857398,project,101,out_of_range_score,"98857398,63,47,101"
+scores.csv,160,77758700,project,,missing_score,"77758700,80,94"
+scores.csv,109;162,19212221,final,45;50,score_conflict,
+scores.csv,109;162,19212221,midterm,71;78,score_conflict,
+scores.csv,109;162,19212221,project,85;88,score_conflict,
+scores.csv,62;132,32068497,final,54;65,score_conflict,
+scores.csv,62;132,32068497,midterm,79;88,score_conflict,
+scores.csv,62;132,32068497,project,62;64,score_conflict,
+scores.csv,25;102,68442511,final,75;80,score_conflict,
+scores.csv,25;102,68442511,midterm,67;74,score_conflict,
+scores.csv,25;102,68442511,project,96;99,score_conflict,
+engagement.log,280,4770215,w3,1,invalid_student_id,2026-09-01T15:10:54 | 4770215 | w3 | 1
+engagement.log,542,4770215,w2,2,invalid_student_id,2026-08-25T11:13:37 | 4770215 | w2 | 2
+engagement.log,660,21990005,w0,1,invalid_week,2026-08-17T09:55:24 | 21990005 | w0 | 1
+engagement.log,661,21990005,w5,2,invalid_week,2026-08-24T13:01:14 | 21990005 | w5 | 2
+engagement.log,662,21990006,wx,1,invalid_week,2026-08-17T11:27:16 | 21990006 | wx | 1
+engagement.log,663,10833913,w4,3,invalid_sessions,2026-09-08T11:59:59 | 10833913 | w4 | 3
+engagement.log,664,32917636,w2,-1,invalid_sessions,2026-08-24T10:24:29 | 32917636 | w2 | -1
+engagement.log,665,99453864,w1,2.5,invalid_sessions,2026-08-17T12:58:48 | 99453864 | w1 | 2.5
+engagement.log,666,93420669,w3,two,invalid_sessions,2026-09-01T15:11:19 | 93420669 | w3 | two
+engagement.log,667,,,,wrong_field_count,"sync failed at 02:10, retrying"
+engagement.log,668,12345,w2,,wrong_field_count,2026-08-25T14:33:57 | 12345 | w2
+engagement.log,669,12345,w3,1,wrong_field_count,2026-09-01T17:11:29 | 12345 | w3 | 1 | dup
+engagement.log,18,32987398,w2,2,post_cutoff_engagement,2026-09-17T18:05:00 |  32987398  | w2 | 2
+engagement.log,70,34340333,w2,2,post_cutoff_engagement,2026-09-20T18:05:00 | 34340333 | w2 | 2
+engagement.log,88,36501251,w4,2,post_cutoff_engagement,2026-09-19T12:30:00 | 36501251 | w4 | 2
+engagement.log,108,47792143,w2,2,post_cutoff_engagement,2026-09-15T18:05:00 | 47792143 | w2 | 2
+engagement.log,194,87363913,w2,2,post_cutoff_engagement,2026-09-17T18:05:00 | 87363913 | w2 | 2
+engagement.log,220,93730417,w2,2,post_cutoff_engagement,2026-09-18T18:05:00 |  93730417  | w2 | 2
+engagement.log,228,32179351,w2,2,post_cutoff_engagement,2026-09-16T18:05:00 |  32179351  | w2 | 2
+engagement.log,255,38194753,w2,2,post_cutoff_engagement,2026-09-15T18:05:00 |  38194753  | w2 | 2
+engagement.log,258,63638732,w2,2,post_cutoff_engagement,2026-09-19T18:05:00 | 63638732 | w2 | 2
+engagement.log,326,16816512,w2,2,post_cutoff_engagement,2026-09-15T18:05:00 | 16816512 | w2 | 2
+engagement.log,368,99453864,w2,2,post_cutoff_engagement,2026-09-20T18:05:00 |  99453864  | w2 | 2
+engagement.log,370,97112677,w4,1,post_cutoff_engagement,2026-09-16T12:30:00 | 97112677 | w4 | 1
+engagement.log,390,56780249,w4,1,post_cutoff_engagement,2026-09-18T12:30:00 | 56780249 | w4 | 1
+engagement.log,482,58124315,w2,2,post_cutoff_engagement,2026-09-17T18:05:00 | 58124315 | w2 | 2
+engagement.log,532,32470131,w2,2,post_cutoff_engagement,2026-09-17T18:05:00 |  32470131  | w2 | 2
+engagement.log,599,04770215,w2,2,post_cutoff_engagement,2026-09-20T18:05:00 | 04770215 | w2 | 2
+engagement.log,81;558,10398551,w4,1;2,engagement_conflict,
+engagement.log,319;644;645,10833913,w3,1;2,engagement_conflict,
+engagement.log,571;642;643,19949173,w3,1;2,engagement_conflict,
+engagement.log,115;646;647,37560471,w3,1;2,engagement_conflict,
+engagement.log,106;182,42059446,w2,1;2,engagement_conflict,
+engagement.log,294;586,45710390,w4,0;1,engagement_conflict,
+engagement.log,179;559,58404922,w3,1;2,engagement_conflict,
+engagement.log,195;224,94089208,w3,0;2,engagement_conflict,
+engagement.log,644;645,10833913,w3,2026-09-02 20:49:43,same_timestamp_conflict,
+engagement.log,642;643,19949173,w3,2026-09-02 20:41:29,same_timestamp_conflict,
+engagement.log,646;647,37560471,w3,2026-09-03 16:07:33,same_timestamp_conflict,

@@ -1,0 +1,822 @@
+[
+ {
+  "student_id": "19949173",
+  "name": "Daniel Yip",
+  "email": "daniel.yip@gmail.com"
+ },
+ {
+  "student_id": "88944190",
+  "name": "Fiona Yip",
+  "email": "fiona.yip@gmail.com"
+ },
+ {
+  "student_id": "58404922",
+  "name": "Doris Ho",
+  "email": "doris.ho@gmail.com"
+ },
+ {
+  "student_id": "30026969",
+  "name": "Iris Wong",
+  "email": "iris.wong@gmail.com"
+ },
+ {
+  "student_id": "20308195",
+  "name": "Daniel Chow",
+  "email": "daniel.chow@yahoo.com"
+ },
+ {
+  "student_id": "45710390",
+  "name": "Xavier Choi",
+  "email": "xavier.choi@gmail.com"
+ },
+ {
+  "student_id": "10833913",
+  "name": "Queenie Tse",
+  "email": "queenie.tse@outlook.com"
+ },
+ {
+  "student_id": "10398551",
+  "name": "Ivan Sit",
+  "email": "ivan.sit@GMAIL.COM"
+ },
+ {
+  "student_id": "84821416",
+  "name": "Xavier Wong",
+  "email": "xavier.wong@hkbu.edu.hk"
+ },
+ {
+  "student_id": "94089208",
+  "name": "Alvin Ho",
+  "email": "alvin.ho@yahoo.com"
+ },
+ {
+  "student_id": "54622090",
+  "name": "Laura Tam",
+  "email": "laura.tam@yahoo.com"
+ },
+ {
+  "student_id": "52269071",
+  "name": " Jason Tse",
+  "email": "jason.tse@hkbu.edu.hk"
+ },
+ {
+  "student_id": "37560471",
+  "name": "Hazel So",
+  "email": "hazel.so@yahoo.com"
+ },
+ {
+  "student_id": "42059446",
+  "name": "Elena Pang",
+  "email": "elena.pang@outlook.com"
+ },
+ {
+  "student_id": "69624559",
+  "name": "Doris Lam",
+  "email": "doris.lam@hkbu.edu.hk"
+ },
+ {
+  "student_id": "77758700",
+  "name": "Hugo Fung",
+  "email": "hugo.fung@yahoo.com"
+ },
+ {
+  "student_id": "17979381",
+  "name": "Oscar Hui",
+  "email": "oscar.hui@yahoo.com"
+ },
+ {
+  "student_id": "60542016",
+  "name": "Liam Mak",
+  "email": "liam.mak@gmail.com"
+ },
+ {
+  "student_id": "55380723",
+  "name": "Betty Yip",
+  "email": "betty.yip@outlook.com"
+ },
+ {
+  "student_id": "32917636",
+  "name": "Xenia Luk",
+  "email": "xenia.luk@gmail.com"
+ },
+ {
+  "student_id": "93730417",
+  "name": "Tom Pang",
+  "email": "tom.pang@gmail.com"
+ },
+ {
+  "student_id": "47792143",
+  "name": "Betty Chan",
+  "email": "betty.chan@gmail.com"
+ },
+ {
+  "student_id": "68442511",
+  "name": "Tony Yip",
+  "email": "tony.yip@yahoo.com"
+ },
+ {
+  "student_id": "32179351",
+  "name": "Felix Ho",
+  "email": "felix.ho@gmail.com"
+ },
+ {
+  "student_id": "97112677",
+  "name": "Sylvia Chan",
+  "email": "sylvia.chan@gmail.com"
+ },
+ {
+  "student_id": "16816512",
+  "name": "Victor Pang",
+  "email": "victor.pang@yahoo.com"
+ },
+ {
+  "student_id": "58124315",
+  "name": "Jasmine Yip",
+  "email": "jasmine.yip@outlook.com"
+ },
+ {
+  "student_id": "29194481",
+  "name": "Aaron Lam",
+  "email": "aaron.lam@hkbu.edu.hk"
+ },
+ {
+  "student_id": "32987398",
+  "name": "Karen Chan",
+  "email": "karen.chan@outlook.com"
+ },
+ {
+  "student_id": "87363913",
+  "name": "Hugo Choi",
+  "email": "hugo.choi@gmail.com"
+ },
+ {
+  "student_id": "32470131",
+  "name": "Iris Mak",
+  "email": "iris.mak@hkbu.edu.hk"
+ },
+ {
+  "student_id": "04770215",
+  "name": "Xenia Tse",
+  "email": "xenia.tse@outlook.com"
+ },
+ {
+  "student_id": "73214790",
+  "name": "Wendy Sit",
+  "email": "wendy.sit@outlook.com"
+ },
+ {
+  "student_id": "38194753",
+  "name": "Karen Kwok",
+  "email": "karen.kwok@outlook.com"
+ },
+ {
+  "student_id": "34340333",
+  "name": "Nathan Chow",
+  "email": "nathan.chow@hkbu.edu.hk"
+ },
+ {
+  "student_id": "63638732",
+  "name": "Doris Mak",
+  "email": "doris.mak@yahoo.com"
+ },
+ {
+  "student_id": "99453864",
+  "name": "Laura Ho",
+  "email": "laura.ho@gmail.com"
+ },
+ {
+  "student_id": "95680942",
+  "name": "Oscar Luk",
+  "email": "oscar.luk@outlook.com"
+ },
+ {
+  "student_id": "43033616",
+  "name": "Tom Yip",
+  "email": "tom.yip@outlook.com"
+ },
+ {
+  "student_id": "77591665",
+  "name": "Patrick Wong",
+  "email": "patrick.wong@outlook.com"
+ },
+ {
+  "student_id": "97411452",
+  "name": "Laura Leung",
+  "email": "laura.leung@yahoo.com"
+ },
+ {
+  "student_id": "48322271",
+  "name": "Queenie Mak",
+  "email": "queenie.mak@hkbu.edu.hk"
+ },
+ {
+  "student_id": "78918142",
+  "name": "Uma Choi",
+  "email": "uma.choi@hkbu.edu.hk"
+ },
+ {
+  "student_id": "15476316",
+  "name": "Oscar Pang",
+  "email": "oscar.pang@YAHOO.COM"
+ },
+ {
+  "student_id": "36639446",
+  "name": "Peggy Lee",
+  "email": "peggy.lee@hkbu.edu.hk"
+ },
+ {
+  "student_id": "25556942",
+  "name": "Sally Leung",
+  "email": "sally.leung@outlook.com"
+ },
+ {
+  "student_id": "73936122",
+  "name": "Ryan Cheung",
+  "email": "ryan.cheung@outlook.com"
+ },
+ {
+  "student_id": "90744874",
+  "name": "Ryan Wong",
+  "email": "ryan.wong@hkbu.edu.hk"
+ },
+ {
+  "student_id": "15987238",
+  "name": "Kenneth Chan",
+  "email": "kenneth.chan@yahoo.com"
+ },
+ {
+  "student_id": "12943907",
+  "name": "Grace Luk",
+  "email": "grace.luk@gmail.com"
+ },
+ {
+  "student_id": "44285581",
+  "name": "Marcus Luk",
+  "email": "marcus.luk@outlook.com"
+ },
+ {
+  "student_id": "66996412",
+  "name": "Victor Tsang",
+  "email": "victor.tsang@outlook.com"
+ },
+ {
+  "student_id": "56253890",
+  "name": "Uma Fu",
+  "email": "uma.fu@yahoo.com"
+ },
+ {
+  "student_id": "90367810",
+  "name": "Alvin Yuen",
+  "email": "alvin.yuen@hkbu.edu.hk"
+ },
+ {
+  "student_id": "67472693",
+  "name": "Ivan Fung",
+  "email": "ivan.fung@yahoo.com"
+ },
+ {
+  "student_id": "32068497",
+  "name": "Nathan Tsang",
+  "email": "nathan.tsang@hkbu.edu.hk"
+ },
+ {
+  "student_id": "73586801",
+  "name": "Kenneth Tsang",
+  "email": "kenneth.tsang@hkbu.edu.hk"
+ },
+ {
+  "student_id": "24855469",
+  "name": "Iris Yau",
+  "email": "iris.yau@outlook.com"
+ },
+ {
+  "student_id": "27862666",
+  "name": "Karen Choi",
+  "email": "karen.choi@gmail.com"
+ },
+ {
+  "student_id": "96072149",
+  "name": "Sally Hui",
+  "email": "sally.hui@yahoo.com"
+ },
+ {
+  "student_id": "11616494",
+  "name": "Uma Lee",
+  "email": "uma.lee@gmail.com"
+ },
+ {
+  "student_id": "59267400",
+  "name": "Vivian Cheung",
+  "email": "vivian.cheung@gmail.com"
+ },
+ {
+  "student_id": "93420669",
+  "name": "Hugo Ko",
+  "email": "hugo.ko@gmail.com"
+ },
+ {
+  "student_id": "64720342",
+  "name": "Xavier Fu",
+  "email": "xavier.fu@yahoo.com"
+ },
+ {
+  "student_id": "53058319",
+  "name": "Betty Chow",
+  "email": "betty.chow@hkbu.edu.hk"
+ },
+ {
+  "student_id": "49971191",
+  "name": "Edwin Lee",
+  "email": "edwin.lee@yahoo.com"
+ },
+ {
+  "student_id": "25515684",
+  "name": "Grace Sit",
+  "email": "grace.sit@hkbu.edu.hk"
+ },
+ {
+  "student_id": "32371039",
+  "name": "Betty So",
+  "email": "betty.so@hkbu.edu.hk"
+ },
+ {
+  "student_id": "36501251",
+  "name": "Fiona Ng",
+  "email": "fiona.ng@outlook.com"
+ },
+ {
+  "student_id": " 63339209 ",
+  "name": "Fiona Tam",
+  "email": "fiona.tam@hkbu.edu.hk"
+ },
+ {
+  "student_id": "75634387",
+  "name": "Belinda Yip",
+  "email": "belinda.yip@gmail.com"
+ },
+ {
+  "student_id": "81890664",
+  "name": "Peggy Yau",
+  "email": "peggy.yau@outlook.com"
+ },
+ {
+  "student_id": "48833471",
+  "name": "Kenneth Mak",
+  "email": "kenneth.mak@yahoo.com"
+ },
+ {
+  "student_id": "83527600",
+  "name": "Oscar Chan",
+  "email": "oscar.chan@yahoo.com"
+ },
+ {
+  "student_id": "11589711",
+  "name": "Felix Ng",
+  "email": "felix.ng@yahoo.com"
+ },
+ {
+  "student_id": "49422007",
+  "name": "Marcus Fung",
+  "email": "marcus.fung@outlook.com"
+ },
+ {
+  "student_id": "19800330",
+  "name": " Fiona Sit",
+  "email": "fiona.sit@hkbu.edu.hk"
+ },
+ {
+  "student_id": "76637342",
+  "name": "Raymond Tse",
+  "email": "raymond.tse@hkbu.edu.hk"
+ },
+ {
+  "student_id": "17947782",
+  "name": "Betty Wong",
+  "email": "betty.wong@outlook.com"
+ },
+ {
+  "student_id": "95705330",
+  "name": "Gary Yau",
+  "email": "gary.yau@outlook.com"
+ },
+ {
+  "student_id": "88569452",
+  "name": "Patrick Yau",
+  "email": "patrick.yau@gmail.com"
+ },
+ {
+  "student_id": "99192406",
+  "name": "Xavier Ko",
+  "email": "xavier.ko@gmail.com"
+ },
+ {
+  "student_id": "68820438",
+  "name": "Olivia Sit",
+  "email": "olivia.sit@gmail.com"
+ },
+ {
+  "student_id": "50968345",
+  "name": "Raymond Kwok",
+  "email": "raymond.kwok@yahoo.com"
+ },
+ {
+  "student_id": "98789681",
+  "name": "Uma Luk",
+  "email": "uma.luk@outlook.com"
+ },
+ {
+  "student_id": "52281345",
+  "name": "Kenneth Sit",
+  "email": "kenneth.sit@outlook.com"
+ },
+ {
+  "student_id": "71713480",
+  "name": "Betty Mak",
+  "email": "betty.mak@hkbu.edu.hk"
+ },
+ {
+  "student_id": "45778904",
+  "name": "Ryan Yuen",
+  "email": "ryan.yuen@outlook.com"
+ },
+ {
+  "student_id": "74129476",
+  "name": "Karen Yuen",
+  "email": "karen.yuen@outlook.com"
+ },
+ {
+  "student_id": " 39369847 ",
+  "name": "Sally Chan",
+  "email": "sally.chan@gmail.com"
+ },
+ {
+  "student_id": "42276139",
+  "name": "Yuki Tse",
+  "email": "yuki.tse@outlook.com"
+ },
+ {
+  "student_id": "74473990",
+  "name": "Grace So",
+  "email": "grace.so@outlook.com"
+ },
+ {
+  "student_id": "27225353",
+  "name": "Peggy Kwok",
+  "email": "peggy.kwok@yahoo.com"
+ },
+ {
+  "student_id": "69986526",
+  "name": "Tony Choi",
+  "email": "tony.choi@yahoo.com"
+ },
+ {
+  "student_id": "33634232",
+  "name": "Chloe Lee",
+  "email": "chloe.lee@gmail.com"
+ },
+ {
+  "student_id": "04553331",
+  "name": "Felix Fu",
+  "email": "felix.fu@outlook.com"
+ },
+ {
+  "student_id": "96569647",
+  "name": "Marcus Kwok",
+  "email": "marcus.kwok@hkbu.edu.hk"
+ },
+ {
+  "student_id": "48551508",
+  "name": "Karen Ko",
+  "email": "karen.ko@hkbu.edu.hk"
+ },
+ {
+  "student_id": "19212221",
+  "name": "Hazel Pang",
+  "email": "hazel.pang@outlook.com"
+ },
+ {
+  "student_id": "91731574",
+  "name": "Vivian Mak",
+  "email": "vivian.mak@gmail.com"
+ },
+ {
+  "student_id": "63807786",
+  "name": "Kenneth Ho",
+  "email": "kenneth.ho@hkbu.edu.hk"
+ },
+ {
+  "student_id": "86639109",
+  "name": "Uma Tsang",
+  "email": "uma.tsang@hkbu.edu.hk"
+ },
+ {
+  "student_id": "50426379",
+  "name": "Winston Choi",
+  "email": "winston.choi@hkbu.edu.hk"
+ },
+ {
+  "student_id": "70759556",
+  "name": "Iris Chan",
+  "email": "iris.chan@yahoo.com"
+ },
+ {
+  "student_id": "40157925",
+  "name": "Daniel Ko",
+  "email": "daniel.ko@gmail.com"
+ },
+ {
+  "student_id": "91367187",
+  "name": "Queenie Sit",
+  "email": "queenie.sit@yahoo.com"
+ },
+ {
+  "student_id": "99725305",
+  "name": "Chloe Choi",
+  "email": "chloe.choi@gmail.com"
+ },
+ {
+  "student_id": "16715597",
+  "name": "Yuki Chan",
+  "email": "yuki.chan@gmail.com"
+ },
+ {
+  "student_id": "56780249",
+  "name": "Tony Yau",
+  "email": "tony.yau@outlook.com"
+ },
+ {
+  "student_id": "29964670",
+  "name": "Belinda So",
+  "email": "belinda.so@yahoo.com"
+ },
+ {
+  "student_id": "31767877",
+  "name": "Winston Fung",
+  "email": "winston.fung@hkbu.edu.hk"
+ },
+ {
+  "student_id": "48702037",
+  "name": "Nathan Ko",
+  "email": "nathan.ko@gmail.com"
+ },
+ {
+  "student_id": "54542094",
+  "name": "Edwin Fu",
+  "email": "edwin.fu@gmail.com"
+ },
+ {
+  "student_id": "11622026",
+  "name": "Wendy So",
+  "email": "wendy.so@hkbu.edu.hk"
+ },
+ {
+  "student_id": "21664664",
+  "name": "Alvin Cheung",
+  "email": "alvin.cheung@gmail.com"
+ },
+ {
+  "student_id": "51855024",
+  "name": "Fiona Yau",
+  "email": "fiona.yau@yahoo.com"
+ },
+ {
+  "student_id": "37859286",
+  "name": "Jasmine Ng",
+  "email": "jasmine.ng@hkbu.edu.hk"
+ },
+ {
+  "student_id": " 75579252 ",
+  "name": "Yuki Yuen",
+  "email": "yuki.yuen@gmail.com"
+ },
+ {
+  "student_id": "27136102",
+  "name": "Victor Tam",
+  "email": "victor.tam@gmail.com"
+ },
+ {
+  "student_id": "61929170",
+  "name": "Daniel Choi",
+  "email": "daniel.choi@yahoo.com"
+ },
+ {
+  "student_id": "30831468",
+  "name": "Kenneth Hui",
+  "email": "kenneth.hui@yahoo.com"
+ },
+ {
+  "student_id": "53121425",
+  "name": "Tom Lee",
+  "email": "tom.lee@yahoo.com"
+ },
+ {
+  "student_id": "89836227",
+  "name": "Ursula Cheung",
+  "email": "ursula.cheung@gmail.com"
+ },
+ {
+  "student_id": "95249216",
+  "name": "Olivia Choi",
+  "email": "olivia.choi@yahoo.com"
+ },
+ {
+  "student_id": "98857398",
+  "name": "Calvin Tse",
+  "email": "calvin.tse@yahoo.com"
+ },
+ {
+  "student_id": "10287235",
+  "name": "Marcus Cheung",
+  "email": "marcus.cheung@outlook.com"
+ },
+ {
+  "student_id": "94802359",
+  "name": "Olivia Tam",
+  "email": "olivia.tam@yahoo.com"
+ },
+ {
+  "student_id": "99393038",
+  "name": "Karen Ho",
+  "email": "karen.ho@outlook.com"
+ },
+ {
+  "student_id": "18421581",
+  "name": "Uma Yip",
+  "email": "uma.yip@HKBU.EDU.HK"
+ },
+ {
+  "student_id": "41276721",
+  "name": "Raymond Fung",
+  "email": "raymond.fung@outlook.com"
+ },
+ {
+  "student_id": "18510296",
+  "name": "Alvin Choi",
+  "email": "alvin.choi@outlook.com"
+ },
+ {
+  "student_id": "21782591",
+  "name": "Mona Cheung",
+  "email": "mona.cheung@hkbu.edu.hk"
+ },
+ {
+  "student_id": "61759153",
+  "name": "Felix Chow",
+  "email": "felix.chow@yahoo.com"
+ },
+ {
+  "student_id": "11829965",
+  "name": "Ursula Chow",
+  "email": "ursula.chow@yahoo.com"
+ },
+ {
+  "student_id": "82117268",
+  "name": "Aaron Choi",
+  "email": "aaron.choi@outlook.com"
+ },
+ {
+  "student_id": "96845083",
+  "name": "Gary Wong",
+  "email": "gary.wong@yahoo.com"
+ },
+ {
+  "student_id": "51583008",
+  "name": "Hugo Yau",
+  "email": "hugo.yau@hkbu.edu.hk"
+ },
+ {
+  "student_id": "47222037",
+  "name": "Alvin Tse",
+  "email": "alvin.tse@yahoo.com"
+ },
+ {
+  "student_id": "93714657",
+  "name": "Hazel Yau",
+  "email": "hazel.yau@yahoo.com"
+ },
+ {
+  "student_id": "54763817",
+  "name": "Patrick Kwok",
+  "email": "patrick.kwok@hkbu.edu.hk"
+ },
+ {
+  "student_id": "70551668",
+  "name": "Daniel Wong",
+  "email": "daniel.wong@hkbu.edu.hk"
+ },
+ {
+  "student_id": "27902964",
+  "name": "Marcus Leung",
+  "email": "marcus.leung@hkbu.edu.hk"
+ },
+ {
+  "student_id": "61624794",
+  "name": " Patrick Lee",
+  "email": "patrick.lee@yahoo.com"
+ },
+ {
+  "student_id": "38730680",
+  "name": "Uma Wong",
+  "email": "uma.wong@gmail.com"
+ },
+ {
+  "student_id": "53459645",
+  "name": "Belinda Kwok",
+  "email": "belinda.kwok@hkbu.edu.hk"
+ },
+ {
+  "student_id": "89081413",
+  "name": "Mona Kwok",
+  "email": "mona.kwok@hkbu.edu.hk"
+ },
+ {
+  "student_id": "32083061",
+  "name": "Elena Tam",
+  "email": "elena.tam@yahoo.com"
+ },
+ {
+  "student_id": "70672889",
+  "name": "Elena Fung",
+  "email": "elena.fung@yahoo.com"
+ },
+ {
+  "student_id": "12088214",
+  "name": "Fiona Ho",
+  "email": "fiona.ho@gmail.com"
+ },
+ {
+  "student_id": "94542603",
+  "name": "Mona Tsang",
+  "email": "mona.tsang@gmail.com"
+ },
+ {
+  "student_id": "10278833",
+  "name": "Grace Pang",
+  "email": "grace.pang@yahoo.com"
+ },
+ {
+  "student_id": "58909036",
+  "name": "Grace Mak",
+  "email": "grace.mak@outlook.com"
+ },
+ {
+  "student_id": "58259684",
+  "name": "Xenia Wong",
+  "email": "xenia.wong@hkbu.edu.hk"
+ },
+ {
+  "student_id": "14037118",
+  "name": "Gary Lee",
+  "email": "gary.lee@hkbu.edu.hk"
+ },
+ {
+  "student_id": "39316784",
+  "name": "Laura Pang",
+  "email": "laura.pang@hkbu.edu.hk"
+ },
+ {
+  "student_id": "48628200",
+  "name": "Felix Tse",
+  "email": "felix.tse@gmail.com"
+ },
+ {
+  "student_id": "74819346",
+  "name": "Aaron Leung",
+  "email": "aaron.leung@hkbu.edu.hk"
+ },
+ {
+  "student_id": "32686366",
+  "name": "Ursula Mak",
+  "email": "ursula.mak@outlook.com"
+ },
+ {
+  "student_id": "23880001",
+  "name": "Nathan Sit",
+  "email": "withdrawn01@example.com"
+ },
+ {
+  "student_id": "23880002",
+  "name": "Wendy Lee",
+  "email": "withdrawn02@example.com"
+ },
+ {
+  "student_id": "23880003",
+  "name": "Olivia Pang",
+  "email": "withdrawn03@example.com"
+ },
+ {
+  "student_id": "23880004",
+  "name": "Yvonne Ho",
+  "email": "withdrawn04@example.com"
+ },
+ {
+  "student_id": "23880005",
+  "name": "Xavier Sit",
+  "email": "withdrawn05@example.com"
+ },
+ {
+  "student_id": "23880006",
+  "name": "Natalie Leung",
+  "email": "withdrawn06@example.com"
+ }
+]
