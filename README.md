@@ -210,15 +210,8 @@
 - 已完成 PDF OCR 和作业要求梳理。
 - 已完成四个数据文件的初步读取和问题识别。
 - 已整合完整数据清洗策略。
-- 已在 `hw1_template.ipynb` 中实现清洗、审计、推荐和分析代码，并生成清洗结果与审计 CSV。
-- 原始数据及各次已有的 notebook 运行备份保存在仓库的 `backups/` 目录；后续版本通过 Git 提交记录。
-
-## 9. 远程备份与版本管理
-
-- GitHub 仓库：<https://github.com/yancanbethebest/python_hw1>。
-- `backups/original_20260929_162121/` 保存实现清洗前的四个原始数据文件及 notebook；`backups/notebook_run_*/` 保存此前运行时生成的快照。
-- notebook 运行时不再生成本机时间戳备份。修改数据或代码后，提交并推送到 `origin/main`，以便在 GitHub 的提交历史中找回旧版本。
-- 查看旧版文件可用 `git show <commit>:students.json`；需要恢复时，先确认目标提交，再用 `git restore --source <commit> -- students.json`。
+- 已将清洗规则写入 `hw1_template.ipynb`。
+- 下一步：在 notebook 中实现 Step 2 清洗代码。
 
 
 
